@@ -12,4 +12,5 @@ HEADERS += \
     easy/chuck_norris.h \
     easy/ascii_art.h \
     easy/temperatures.h \
-    easy/power_of_thor_episode_1.h
+    easy/power_of_thor_episode_1.h \
+    easy/defibrillators.h

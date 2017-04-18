@@ -7,6 +7,7 @@
 
 int main()
 {
+    //freopen("d:\\data.txt", "r", stdin);
     int L;
     scanf("%d", &L);
     int H;
