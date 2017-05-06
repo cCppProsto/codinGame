@@ -13,4 +13,7 @@ HEADERS += \
     easy/ascii_art.h \
     easy/temperatures.h \
     easy/power_of_thor_episode_1.h \
-    easy/defibrillators.h
+    easy/defibrillators.h \
+    easy/horse_racing_duals.h \
+    easy/mime_type.h \
+    easy/mars_lander_episode_1.h
