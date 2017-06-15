@@ -16,4 +16,7 @@ HEADERS += \
     easy/defibrillators.h \
     easy/horse_racing_duals.h \
     easy/mime_type.h \
-    easy/mars_lander_episode_1.h
+    easy/mars_lander_episode_1.h \
+    medium/there_is_no_spoon_episode_1.h \
+    medium/shadows_of_the_knight_episode_1.h \
+    medium/bender_episode_1.h
