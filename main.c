@@ -11,8 +11,8 @@
 
 //#include "medium/there_is_no_spoon_episode_1.h"
 //#include "medium/shadows_of_the_knight_episode_1.h"
-#include "medium/bender_episode_1.h"
+//#include "medium/bender_episode_1.h"
+//#include "medium/donot_panic_episode_1.h"
 
-
-
+#include "medium/teads_sponsored_contest.h"
 

@@ -19,4 +19,6 @@ HEADERS += \
     easy/mars_lander_episode_1.h \
     medium/there_is_no_spoon_episode_1.h \
     medium/shadows_of_the_knight_episode_1.h \
-    medium/bender_episode_1.h
+    medium/bender_episode_1.h \
+    medium/donot_panic_episode_1.h \
+    medium/teads_sponsored_contest.h
