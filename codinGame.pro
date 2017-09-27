@@ -21,4 +21,6 @@ HEADERS += \
     medium/shadows_of_the_knight_episode_1.h \
     medium/bender_episode_1.h \
     medium/donot_panic_episode_1.h \
-    medium/teads_sponsored_contest.h
+    medium/teads_sponsored_contest.h \
+    medium/mayan_calculation.h \
+    medium/the_last_crusade_episode_1.h

@@ -13,6 +13,9 @@
 //#include "medium/shadows_of_the_knight_episode_1.h"
 //#include "medium/bender_episode_1.h"
 //#include "medium/donot_panic_episode_1.h"
+//#include "medium/teads_sponsored_contest.h"
+//#include "medium/mayan_calculation.h"
+#include "medium/the_last_crusade_episode_1.h"
 
-#include "medium/teads_sponsored_contest.h"
+
 
